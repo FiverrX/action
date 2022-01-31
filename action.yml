@@ -118,4 +118,4 @@ outputs:
 
 runs:
   main: action/main.js
-  using: node12
+  using: node16
